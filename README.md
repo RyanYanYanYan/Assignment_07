@@ -1,2 +1,2 @@
 # Assignment_07
-First commit of Assignment_07 by Ziqi Yan
+IT FDN 110 B / Assignment_06 implemented by Ziqi Yan
